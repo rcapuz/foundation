@@ -5,7 +5,7 @@ Monthly sales targets can be set for a company via the Company master. By defaul
 
 <img class="screenshot" alt="Sales Graph" src="{{docs_base_url}}/assets/img/sales_goal/sales_history_graph.png">
 
-You can set the **Sales Target** field to track progress to track progress with respect to it.
+You can set the **Sales Target** field to track progress with respect to it.
 
 <img class="screenshot" alt="Setting Sales Goal" src="{{docs_base_url}}/assets/img/sales_goal/setting_sales_goal.gif">
 
